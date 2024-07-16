@@ -1,0 +1,25 @@
+/* styles.css */
+.search-input {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+  
+  .table-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .chart-container {
+    margin-top: 40px;
+  }
+  
+  .cursor-pointer {
+    cursor: pointer;
+  }
+  
+  .no-transactions {
+    font-style: italic;
+    color: gray;
+  }
+  
